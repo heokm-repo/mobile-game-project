@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Term Project 2 Group</string>
+
+    <!-- 메인 액티비티 -->
+    <string name="main_start_button">Start Game</string>
+    <string name="main_ranking_button">Ranking</string>
+    <string name="main_settings_button">Settings</string>
+    <string name="main_dialog_title">Term Project</string>
+    <string name="main_dialog_message">This is a term project for Mobile Programming.</string>
+    <string name="main_dialog_close_button">Close</string>
+
+    <!-- 게임 목록 액티비티 -->
+    <string name="game_index_title">Game List</string>
+    <string name="game_index_name_1">Tap Oh</string>
+    <string name="game_index_name_2">Loop 16</string>
+    <string name="game_index_name_3">Press C</string>
+    <string name="game_index_name_4">Slider</string>
+    <string name="game_index_name_3_text1">! TOUCH !</string>
+
+    <!-- 게임 오버 액티비티 -->
+    <string name="game_over_title">Game Over</string>
+    <string name="game_over_score">Score:</string>
+    <string name="game_over_time">Time:</string>
+    <string name="game_over_return_main_button">Settings</string>
+    <string name="game_over_retry_button">Settings</string>
+
+    <!-- 랭킹 액티비티 -->
+    <string name="ranking_title">Ranking</string>
+
+    <!-- 설정 액티비티 -->
+    <string name="setting_title">Settings</string>
+    <string name="setting_background_music">Background Music:</string>
+    <string name="setting_sound_effect">Effect Sound:</string>
+    <string name="setting_language">Language</string>
+    <string name="setting_language_korean">한국어</string>
+    <string name="setting_language_english">English</string>
+    <string name="setting_dbreset">DB Reset</string>
+    <string name="ranking_point">Point</string>
+    <string name="ranking_time">Time</string>
+    <string name="ranking_date">Date</string>
+    <string name="ranking_rank">Rank</string>
+    <string name="ranking_noranking">No ranking saved.</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">텀 프로젝트 2조</string>
+
+    <!-- 메인 액티비티 -->
+    <string name="main_start_button">게임 시작</string>
+    <string name="main_ranking_button">랭크</string>
+    <string name="main_settings_button">설정</string>
+    <string name="main_dialog_title">텀 프로젝트</string>
+    <string name="main_dialog_message">모바일 프로그래밍의 텀 프로젝트 과제입니다.</string>
+    <string name="main_dialog_close_button">닫기</string>
+
+    <!-- 게임 목록 액티비티 -->
+    <string name="game_index_title">게임 목록</string>
+    <string name="game_index_name_1">Tap Oh</string>
+    <string name="game_index_name_2">Loop 16</string>
+    <string name="game_index_name_3">Press C</string>
+    <string name="game_index_name_4">Slider</string>
+    <string name="game_index_name_3_text1">!!! 터 치 !!!</string>
+
+    <!-- 게임 오버 액티비티 -->
+    <string name="game_over_title">게 임   종 료</string>
+    <string name="game_over_score">점수:</string>
+    <string name="game_over_time">시간:</string>
+    <string name="game_over_return_main_button">게임목록</string>
+    <string name="game_over_retry_button">다시하기</string>
+
+    <!-- 랭킹 액티비티 -->
+    <string name="ranking_title">랭킹</string>
+
+    <!-- 설정 액티비티 -->
+    <string name="setting_title">설정</string>
+    <string name="setting_background_music">배경음:</string>
+    <string name="setting_sound_effect">효과음:</string>
+    <string name="setting_language">언 어</string>
+    <string name="setting_language_korean">한국어</string>
+    <string name="setting_language_english">English</string>
+    <string name="setting_dbreset">DB 리셋</string>
+    <string name="ranking_point">점수</string>
+    <string name="ranking_time">시간</string>
+    <string name="ranking_date">날짜</string>
+    <string name="ranking_rank">등수</string>
+    <string name="ranking_noranking">저장된 랭킹이 없습니다.</string>
+</resources>
